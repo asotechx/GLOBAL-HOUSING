@@ -1,8 +1,8 @@
 ## **GLOBAL HOUSING**
 This project entails a comprehensive data engineering pipeline designed to ingest, process, and analyze data efficiently, enabling robust insights and decision-making.
-![alt Image](https://github.com/asotechx/GLOBAL-HOUSING/blob/main/Pipeline.jpg?raw=true)
+![Image alt](https://github.com/asotechx/GLOBAL-HOUSING/blob/main/Pipeline.jpg?raw=true)
 
-## **Tech Stack & Tools
+## **Tech Stack & Tools**
 - Data Warehouse: PostgreSQL
 - Database: PostgreSQL
 - Orchestration: Apache Airflow
@@ -48,6 +48,16 @@ The ETL pipeline is orchestrated using Apache Airflow, which manages the schedul
 
 Airflow also provides a user-friendly web interface for visualizing pipeline progress, monitoring task execution, and managing workflows effectively.
 http://localhost:8090/dags/etl_global-housing/  
+
+Note: The provided link assumes that Apache Airflow is running locally on port 8090. If your Airflow instance is hosted on a different machine or configured to use a different port, please adjust the URL accordingly.
+
+
+## **Usage**
+Here’s a well-structured section you can use for Instructions on executing ETL processes, scheduling via Airflow, and accessing Power BI reports:
+
+## **Contributing**
+We welcome contributions from the community! Please take a moment to read our contributing guidelines to get started.
+
 
 
 
