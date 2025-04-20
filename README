@@ -40,6 +40,14 @@ Our Power BI dashboards leverage the curated datasets to deliver interactive, in
 ## **Sample Visualizations**
 The following visualizations showcase key components of our Power BI dashboards, each designed to highlight critical insights and trends:
 
+![Image alt](https://github.com/asotechx/GLOBAL-HOUSING/blob/main/Visualization.jpeg?raw=true)
+
+**Orchestration with Apache Airflow**
+
+The ETL pipeline is orchestrated using Apache Airflow, which manages the scheduling and execution of all data processing tasks. Airflow’s robust framework enables seamless automation of the pipeline’s components—from data extraction to transformation and loading—ensuring a consistent and reliable data flow through each stage of the process.
+
+Airflow also provides a user-friendly web interface for visualizing pipeline progress, monitoring task execution, and managing workflows effectively.
+http://localhost:8090/dags/etl_global-housing/  
 
 
 
