@@ -1,12 +1,7 @@
 **GLOBAL HOUSING**
 This project entails a comprehensive data engineering pipeline designed to ingest, process, and analyze data efficiently, enabling robust insights and decision-making.
 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/asotechx/GLOBAL-HOUSING/blob/main/Pipeline.jpg?raw=true">
-</picture>
+![Image alt](https://github.com/asotechx/GLOBAL-HOUSING/blob/main/Pipeline.jpg?raw=true)
 
 
 # **Tech Stack & Tools**
